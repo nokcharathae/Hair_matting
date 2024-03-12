@@ -1,7 +1,7 @@
 # Hair_matting
 
 ## Intoduction
-Welcome to our Hair Matting project repository. Here, we aim to simplify the process of extracting high-quality hair mattes from images using a streamlined workflow. Starting with hair segmentation using the `bisenet` model, we guide you through creating accurate trimaps and ultimately achieving detailed hair matting with the FBA_Matting model. This README provides all the necessary steps and resources, including how to prepare your images for testing and utilize the `main.ipynb` notebook for processing. Our method ensures precise and visually appealing results, enhancing the quality of your hair editing projects.
+Welcome to our Hair Matting project repository. Here, we aim to simplify the process of extracting high-quality hair mattes from images using a streamlined workflow. Starting with hair segmentation using the `bisenet` model, we guide you through creating accurate trimaps and ultimately achieving detailed hair matting with the `FBA_Matting` model. This README provides all the necessary steps and resources, including how to prepare your images for testing and utilize the `main.ipynb` notebook for processing. Our method ensures precise and visually appealing results, enhancing the quality of your hair editing projects.
 
 
 ## Reference
