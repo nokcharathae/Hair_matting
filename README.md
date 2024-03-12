@@ -22,3 +22,6 @@ To obtain a high-quality hair matte, you can utilize the FBA_Matting model along
 
 ## Test 
 To prepare for testing, please place your images in the `dataset/img/test` folder. These images can then be tested using the `main.ipynb` notebook. This setup allows for a streamlined process to evaluate the performance of the model with your specific images, ensuring you can directly observe and assess the outcomes of the processing steps outlined in our workflow.
+
+## Results
+![result](./dataset/img/result.png)
